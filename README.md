@@ -1,4 +1,4 @@
 # deanna_learns_python
 Deanna Learns Python (duh)
 
-I'm going to work on learning Python YAY
+- Building Skills in Python - A Programmer's Introduction To Python 
